@@ -1,1 +1,2 @@
-FROM nvidia/cuda:11.2.0-cudnn8-runtime-ubuntu18.04
+FROM nvidia/cuda:11.2.1-cudnn8-devel-ubuntu18.04
+ADD .
