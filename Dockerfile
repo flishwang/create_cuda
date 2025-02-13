@@ -1,1 +1,1 @@
-FROM nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
+FROM 12.4.1-cudnn-devel-ubuntu22.04
